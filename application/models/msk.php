@@ -24,7 +24,6 @@
 				return true;
 			}
 		}
-		/*===============Tampil User====================*/
 		function tampiluser($limit,$start)
 		{
 			$this->db->limit($limit, $start);
